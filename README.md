@@ -1,5 +1,3 @@
 # Hello 
 
-new branch
-
-new update
+welcome
